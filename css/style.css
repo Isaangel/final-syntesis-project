@@ -4,11 +4,11 @@ html {
 
 body {
   margin: 0;
-  background-color: #ffffff;
+  background-color: lightblue;
 }
 
 header h1 {
-  background-color: #364552;
+  background-color: cadetblue;
   color: white;
   padding: 3rem 2rem;
   font-size: 3rem;
@@ -68,7 +68,7 @@ li {
 footer {
   background-color: #222;
   padding: 3rem;
-  color: white;
+  color: lightblue;
   border-radius: 0.5rem;
 }
 
